@@ -1,7 +1,3 @@
-// $(window).ready(function(){
-//    $("#article").fadeIn('slow');
-// });
-
 setTimeout(function(){
 	$('body').addClass('body_visible');
 }, 200);
@@ -26,11 +22,3 @@ $(document).ready(function() {
      $('html, body').animate({scrollTop:0}, '300');
    });
 });
-
-// $(document).on("scroll", function () {
-// 	if ($(window).scrollTop() === 0) {
-// 		$("header").removeClass("fixed");
-// 	} else {
-// 		$("header").attr("class", "fixed");
-// 	}
-// });
