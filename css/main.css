@@ -16,8 +16,6 @@ body {
 	font-family: Trebuchet MS, Helvetica; 
 }
 
-/* Шапка сайта */
-
 header {
 	width: 100%;
 	padding: 10px 0.5% 0px 0.5%;
@@ -367,6 +365,7 @@ h1, h2, h3, h4, h5 {
 	font-size: 0.95em;
 	margin-bottom: 40px;
 }
+<<<<<<< HEAD
 
 /*кнопка "Вверх"*/
 
@@ -410,3 +409,5 @@ h1, h2, h3, h4, h5 {
   opacity: 1;
   visibility: visible;
 }
+=======
+>>>>>>> 32c8e2ecd1d8b67ab6eddeecacac930b814a0707
