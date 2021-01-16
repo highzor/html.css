@@ -58,21 +58,6 @@
       <span>Муниципальных объектов</span>
     </div>
   </div>
-
-  <!-- <div id="contacts">
-    <center><h5>Обратная связь</h5></center>
-    <center><h3>(напишите нам)</h3></center>
-    <form id="form_input">
-      <label for="name">Имя <span>*</span></label><br>
-      <input type="text" placeholder="Введите имя" name="name" id="name"><br>
-      <label for="email">Ваша почта <span>*</span></label><br>
-      <input type="email" placeholder="Введите email" name="email" id="email"><br>
-      <label for="message">Сообщение <span>*</span></label><br>
-      <textarea placeholder="Введите ваше сообщение" name="message" id="message"></textarea><br>
-      <div id="mess_send" class="mybtn">Отправить</div>
-    </form>
-  </div> -->
-
   <!-- ответы на вопросы -->
   <?php require "blocks/footer.php"?>
 
