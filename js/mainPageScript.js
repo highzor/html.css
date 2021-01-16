@@ -34,13 +34,3 @@ $(document).ready(function() {
 setTimeout(function(){
 	$('body').addClass('body_visible');
 }, 200);
-
-// document.addEventListener("DOMContentLoaded", function (dcle) {
-//   debugger;
-//  document.getElementById("dwnldForms").addEventListener("mouseenter", function () {
-//   debugger;
-//   $(function () {
-//   $('#dwnldForms').tooltip()
-// })
-//  });
-// });
