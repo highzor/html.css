@@ -2,6 +2,16 @@
 //    $("#article").fadeIn('slow');
 // });
 
+
+
+// document.addEventListener("DOMContentLoaded", function(){
+// 	var closeButt = document.getElementById('close');
+// 	if (closeButt) closeButt.click();
+// });
+$(function () {
+  $('#dwnldForms').tooltip()
+})
+
 setTimeout(function(){
 	$('body').addClass('body_visible');
 }, 200);
@@ -26,6 +36,7 @@ $(document).ready(function() {
      $('html, body').animate({scrollTop:0}, '300');
    });
 });
+
 
 // $(document).on("scroll", function () {
 // 	if ($(window).scrollTop() === 0) {
