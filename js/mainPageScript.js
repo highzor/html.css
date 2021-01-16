@@ -1,3 +1,7 @@
+  $(function () {
+  $('#dwnldForms').tooltip()
+})
+
 function slowScroll(id) {
 	$('html, body').animate({
 		scrollTop: $(id).offset().top
@@ -26,3 +30,7 @@ $(document).ready(function() {
      $('html, body').animate({scrollTop:0}, '300');
    });
 });
+
+setTimeout(function(){
+	$('body').addClass('body_visible');
+}, 200);
