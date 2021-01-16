@@ -51,28 +51,6 @@
     document.getElementById("closeForms").classList.add('btn-sm');
     document.getElementById("submit").classList.add('btn-sm');
   }
-// function checkFields() {
-//   debugger;
-//     var nameField = document.getElementById("recipient-name");
-//     var telField = document.getElementById("example-tel-input");
-//     var emailField = document.getElementById("example-email-input");
-//     if (!nameField.value) {
-//       nameField.placeholder = 'Пожалуйста, представьтесь';
-//       nameField.classList.add('is-invalid');
-//       return  false;
-//     } else if (!telField.value && !emailField.value) {
-//       nameField.classList.remove('is-invalid');
-//       telField.placeholder = 'Заполните хотя бы одно из полей';
-//       emailField.placeholder = 'Заполните хотя бы одно из полей';
-//       telField.classList.add('is-invalid');
-//       emailField.classList.add('is-invalid');
-//       return false;
-//     } else {
-//       telField.classList.remove('is-invalid');
-//       emailField.classList.remove('is-invalid');
-//       submitIt();
-//     }
-//   }
 
 
 
