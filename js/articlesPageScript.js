@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // $(window).ready(function(){
 //    $("#article").fadeIn('slow');
 // });
@@ -12,6 +13,8 @@ $(function () {
   $('#dwnldForms').tooltip()
 })
 
+=======
+>>>>>>> 926036aeeb518e2256bd5aeca74a09f202d61443
 setTimeout(function(){
 	$('body').addClass('body_visible');
 }, 200);
@@ -36,6 +39,7 @@ $(document).ready(function() {
      $('html, body').animate({scrollTop:0}, '300');
    });
 });
+<<<<<<< HEAD
 
 
 // $(document).on("scroll", function () {
@@ -45,3 +49,5 @@ $(document).ready(function() {
 // 		$("header").attr("class", "fixed");
 // 	}
 // });
+=======
+>>>>>>> 926036aeeb518e2256bd5aeca74a09f202d61443
