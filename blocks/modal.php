@@ -51,9 +51,5 @@
     document.getElementById("closeForms").classList.add('btn-sm');
     document.getElementById("submit").classList.add('btn-sm');
   }
-
-
-
 </script>
-
 <script src="js/sendMess.js"></script>
